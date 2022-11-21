@@ -17,7 +17,7 @@ public class Principal {
         ventana1.iniciarComponentes();
         ventana1.setVisible(true);
         */
-        var ventana2 = new  Ventana0301b();
+        var ventana3 = new  Ventana0301c();
         
         
     }
