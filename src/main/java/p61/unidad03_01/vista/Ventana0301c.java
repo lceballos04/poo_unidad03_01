@@ -59,6 +59,7 @@ public class Ventana0301c extends JFrame{
         this.jPanelList.add(new JPanel());
         this.jPanelList.add(new JPanel());
         
+        
         this.jPanelList.get(0).setLayout(new GridLayout(2,2));
         this.jPanelList.get(1).setLayout(new GridLayout(4,1));
         this.jPanelList.get(2).setLayout(new GridLayout(1,2));
